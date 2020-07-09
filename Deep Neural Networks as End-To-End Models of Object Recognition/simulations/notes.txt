@@ -1,0 +1,7 @@
+results:
+
+    -> cnns not super sensitive to global shape
+    -> conf changes resilient, but not totally insensitive
+        * for example, cut size 2 is way less problematic than cut size 4,8,16 etc
+    -> also dont seem to get super thrown off by black and white, so that's a somewhat good sign
+    -> 
